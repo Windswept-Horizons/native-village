@@ -1,6 +1,6 @@
 # native-village
 
-Coyote's Native Village & Ceremonial Path
+<b>Coyote's Native Village & Ceremonial Path</b>
 
 Enhance your Native American RP experience on your own RedM server with this custom-built group of villages along the Dakota River. Included in the villages are a Council Fire, Hunter's Circle and Fishing Village. Walk along the ceremonial path to Window Rock and listen to the Ancestor's whispers on the wind.
 
@@ -41,7 +41,7 @@ Good day and good gaming!<br>
 ~ Coyote
  
 
-Founder, Owner, Lead Developer<br>
+<i>Founder, Owner, Lead Developer<br>
 Windswept Horizons<br>
 www.wish-rp.com
 
