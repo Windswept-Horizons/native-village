@@ -38,10 +38,13 @@ Created, designed on RedM server with the following specs:
 
 
 Good day and good gaming!
+
 ~ Coyote
  
 
-Founder, Owner, Lead Developer
+Founder, Owner, Lead Develope
+
 Windswept Horizons
+
 www.wish-rp.com
 
