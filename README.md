@@ -37,14 +37,11 @@ Created, designed on RedM server with the following specs:
 - Resolution: 1920x1080p
 
 
-Good day and good gaming!
-
+Good day and good gaming!<br>
 ~ Coyote
  
 
-Founder, Owner, Lead Develope
-
-Windswept Horizons
-
+Founder, Owner, Lead Developer<br>
+Windswept Horizons<br>
 www.wish-rp.com
 
